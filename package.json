@@ -1,0 +1,11 @@
+{
+  "name": "frontend-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nzzzz27/frontend-base.git",
+  "author": "Nozomi Yonezawa <nozomi.yonezawa@nextbeat.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
